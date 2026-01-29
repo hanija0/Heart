@@ -70,5 +70,5 @@ The model is deployed on Raspberry Pi. The circuit diagram is provided in circui
 - Use feature engineering to improve predictions.
 
 ## Conclusion
-This project effectively predicts **10-year cardiovascular disease risk** using a **Random Forest model** with **SMOTE** for handling class imbalance. The accuracy of **90.5%** shows promising results.
+This project effectively predicts **10-year cardiovascular disease risk** using a **Random Forest model** with **SMOTE** for handling class imbalance. The accuracy of **90.5%** shows promising results and clear chance of deployability in clinical settings.
 
